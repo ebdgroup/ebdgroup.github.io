@@ -1,3 +1,5 @@
+# EECE2160 Embedded Design: Enabling Robotics
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/eece2160-fall17-s8/eece2160-fall17-s8.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
