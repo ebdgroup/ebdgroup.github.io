@@ -71,9 +71,7 @@ Two grading schemes are provided for students. The final grade of each student w
 
 Quizzes are given at the beginning of the classes. There are no make-up quizzes. Please inform your instructor before the class if you cannot come in for really important reasons.
 
-I will geneally use the Friday class as lab sessions and use the Tuesday class as lection sessions. Each lab will require you to write some code or write a report. The due time of each lab is 23:59 of the next Thursday, unless otherwise noticed. The deadlines are stict. So please do not submit your homework at the last minutes. Since the Labs will be completed in groups(no more than 2 students per group, the group formation cannot change during the semester), group members will receive the same score on the Labs.
-
-Each team (no more than 2 students, can be different from the homework group) will be required to work on a final project at the end of the semester. The topics will be anounced later. Students are encouraged to come up with their own creative ideas.
+I will geneally use the Friday class as lab sessions and use the Tuesday class as lection sessions. Each lab will require you to write some code or write a report. The due time of each lab is 23:59 of the next Thursday, unless otherwise noticed. The deadlines are stict. So please do not submit your homework at the last minutes. Since the Labs will be completed in groups, group members will receive the same score on the Labs.
 
 ## Lab Assignment
 
@@ -82,16 +80,12 @@ This class includes a weekly lab session that provides students with hands-on ex
 ## Course Projects
 
 Students can work individually or in groups of at most two people on a final course project. Groups do not necessarily have to be the same as the lab groups. There will be a set of proposed project topics to choose from, published at least three weeks before the project due dates. The project due dates will be announced in class during the second half of the semester.
+
 The list of proposed projects will be only aimed at giving the student an idea of the expected complexity and topics to choose from. However, students will be encouraged to be creative and propose their own project ideas. Projects will be evaluated based on the quality and quantity of the work, and especially on the student's creativity. One full lab session will be available during the last week of the semester for the students to use the lab equipment should a particular project require it.
 
 ## Midterm and Final Exams
 
 A midterm exam will cover the first part of the course material. A comprehensive final exam will focus on the second part of the course, but will also include the material corresponding to the first part. The date of the midterm is available at the end of this document. The date of the final exam will be announced during the second half of the semester.
-
-## Attendance and Punctuality
-
-Attendance to the lectures is highly recommended, while attendance to lab sessions is mandatory, as you will be working in teams. Punctuality for both lectures and lab sessions is indispensable, and constitutes a basic rule of respect toward your class mates and your instructor. If any particular reason forces you to come in late to class, please let me know in advance by email or in person.
-If you come to office hours, please show up at the beginning of the corresponding time slot. It is expected that multiple students have similar questions and benefit from the same answers. This will allow us to use everyone's time more efficiently.
 
 ## Course Topics
 
@@ -210,7 +204,7 @@ If you come to office hours, please show up at the beginning of the correspondin
 | Friday 10/6   | **Lab 4** Memory-Mapped I/O and Object-Oriented Programming        |
 | Tuesday 10/10 | **Unit 4** Information Representation                              |
 | Friday 10/13  | **Lab 5** Controlling the Wiimote with Object-Oriented Programming |
-| Tuesday 10/17 | **Unit 5** Boolean Algebra and Logic Gates                         |
+| Tuesday 10/17 | **Midterm Exam**                                                   |
 | Friday 10/20  | **Lab 6** Controlling the Robotic Arm by Software                  |
 | Tuesday 10/24 | **Unit 5** Boolean Algebra and Logic Gates                         |
 | Friday 10/27  | **Lab 7** Introduction to Simulink                                 |
