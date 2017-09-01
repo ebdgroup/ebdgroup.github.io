@@ -77,11 +77,9 @@ If you come to office hours, please show up at the beginning of the correspondin
 ### Unit 2 Arrays, Pointers and Dynamic Memory
 
 * Arrays
-
     * Searching
     * Mirroring
     * Sorting
-
 * Pointers
 * The address-of operator
 * Pointer declaration
@@ -155,44 +153,41 @@ If you come to office hours, please show up at the beginning of the correspondin
 * Flip-flops: D flip-flop, J-K flip-flop, T flip-flop
 * Asynchronous inputs for flip-flops
 * Registers
-
     * 4-bit register
     * Adding a load input
     * Shift register
     * Shift register with parallel load
-
 * Counters
-
     * Ripple counter
     * Synchronous counter
     * Limited-range counter
     * Counter with direction control
     * Predefined sequence counter
 
-## Schedule
+## Schedule (Tentative)
 
-| Day           | Event                                                          |
-|:--------------|:---------------------------------------------------------------|
-| Friday 9/8    | Unit 1 Linux and the ZedBoard                                  |
-| Tuesday 9/12  | Unit 2 Arrays, Pointers and Dynamic Memory                     |
-| Friday 9/15   | Lab 1 Linux and the ZedBoard                                   |
-| Tuesday 9/19  | Unit 2 Arrays, Pointers and Dynamic Memory                     |
-| Friday 9/22   | Lab 2 Dynamically Growing Arrays                               |
-| Tuesday 9/26  | Unit 3 Object-Oriented Programming                             |
-| Friday 9/29   | Lab 3 Linked Lists and the GDB Debugger                        |
-| Tuesday 10/3  | Unit 3 Object-Oriented Programming                             |
-| Friday 10/6   | Lab 4 Memory-Mapped I/O and Object-Oriented Programming        |
-| Tuesday 10/10 | Unit 4 Information Representation                              |
-| Friday 10/13  | Lab 5 Controlling the Wiimote with Object-Oriented Programming |
-| Tuesday 10/17 | Unit 5 Boolean Algebra and Logic Gates                         |
-| Friday 10/20  | Lab 6 Controlling the Robotic Arm by Software                  |
-| Tuesday 10/24 | Unit 5 Boolean Algebra and Logic Gates                         |
-| Friday 10/27  | Lab 7 Introduction to Simulink                                 |
-| Tuesday 10/31 | Unit 6 Combinational Logic                                     |
-| Friday 11/10  | Lab 8 Programming the FPGA Using Simulink                      |
-| Tuesday 11/14 | Unit 7 Sequential Logic                                        |
-| Friday 11/17  | Lab 9 Controlling Push Buttons by Hardware                     |
-| Tuesday 11/21 | Unit 7 Sequential Logic                                        |
-| Friday 11/24  | Lab 10 Controlling Servos by Hardware                          |
-| Tuesday 11/28 | Backup Lecture                                                 |
-| Friday 12/1   | Lab 11                                                         |
+| Day           | Event                                                              |
+|:--------------|:-------------------------------------------------------------------|
+| Friday 9/8    | **Unit 1** Linux and the ZedBoard                                  |
+| Tuesday 9/12  | **Unit 2** Arrays, Pointers and Dynamic Memory                     |
+| Friday 9/15   | **Lab 1** Linux and the ZedBoard                                   |
+| Tuesday 9/19  | **Unit 2** Arrays, Pointers and Dynamic Memory                     |
+| Friday 9/22   | **Lab 2** Dynamically Growing Arrays                               |
+| Tuesday 9/26  | **Unit 3** Object-Oriented Programming                             |
+| Friday 9/29   | **Lab 3** Linked Lists and the GDB Debugger                        |
+| Tuesday 10/3  | **Unit 3** Object-Oriented Programming                             |
+| Friday 10/6   | **Lab 4** Memory-Mapped I/O and Object-Oriented Programming        |
+| Tuesday 10/10 | **Unit 4** Information Representation                              |
+| Friday 10/13  | **Lab 5** Controlling the Wiimote with Object-Oriented Programming |
+| Tuesday 10/17 | **Unit 5** Boolean Algebra and Logic Gates                         |
+| Friday 10/20  | **Lab 6** Controlling the Robotic Arm by Software                  |
+| Tuesday 10/24 | **Unit 5** Boolean Algebra and Logic Gates                         |
+| Friday 10/27  | **Lab 7** Introduction to Simulink                                 |
+| Tuesday 10/31 | **Unit 6** Combinational Logic                                     |
+| Friday 11/10  | **Lab 8** Programming the FPGA Using Simulink                      |
+| Tuesday 11/14 | **Unit 7** Sequential Logic                                        |
+| Friday 11/17  | **Lab 9** Controlling Push Buttons by Hardware                     |
+| Tuesday 11/21 | **Unit 7** Sequential Logic                                        |
+| Friday 11/24  | **Lab 10** Controlling Servos by Hardware                          |
+| Tuesday 11/28 | Backup Lecture                                                     |
+| Friday 12/1   | **Lab 11**                                                         |
