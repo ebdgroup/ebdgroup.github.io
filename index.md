@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Class Schedule
 
-You can use the [editor on GitHub](https://github.com/eece2160-fall17-s8/eece2160-fall17-s8.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+* Tuesday 9:15 am - 11:30 am @ 009c Hayden Hall
+* Friday  9:15 am - 11:30 am @ 009c Hayden Hall
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Office Hours
 
-### Markdown
+TBA
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Communication
 
-```markdown
-Syntax highlighted code block
+We will use slack for anouncements, discussion forums, and even virtual office hours. Please use this [link](https://join.slack.com/t/eece2160-fall17-s8/shared_invite/MjM0ODI5ODIyNTMwLTE1MDQyMjY4NDMtMGE5MTRmM2I3OQ) to join the group.
 
-# Header 1
-## Header 2
-### Header 3
+Homeworks will be distributed using Github Classroom. I will create a link for each assigmen. Please register an account on [Github](https://github.com) if you do not have one.
 
-- Bulleted
-- List
+Some of the assignment will require access to a Linux system. You can install a Linux system on your personal computer. If you are using Windows 10, Bash on Windows is also a choice. Otherwise, COE provides servers for remote access. Y ou will need an account on the COE linux machines (gateway.coe.neu.edu). Most of you have the COE accounts already from your previous classes. You will need your COE username and password to access them. If you have forgotten your password, please stop by the COE help desk at 273, 275, or 277 Snell Engineering Building. If you do not have a COE account, you can request one here.
 
-1. Numbered
-2. List
+## Overview
 
-**Bold** and _Italic_ and `Code` text
+This course presents fundamental concepts of Computer Engineering from a comprehensive, full-stack, software-hardware design perspective. The course explores scripting languages, high-level programming, Unix/Linux operating systems, device drivers, software-hardware interfaces, hardware controllers, and digital circuit design. The course is accompanied by a hands-on lab where students apply theoretical concepts on a full-system ZedBoard platform, featuring a programmable logic module, an ARM processor, and an Ubuntu distribution of the Linux operating system. Students will design custom creative software-hybrid designs interacting with a variety of hardware devices connected to the ZedBoard, including LEDs, push buttons, switches, OLED screens, a Wiimote, and a remote-controlled robotic arm.
 
-[Link](url) and ![Image](src)
-```
+## Course Objects
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eece2160-fall17-s8/eece2160-fall17-s8.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Become familiar with the Unix/Linux command-line interface
+* Learn new C and C++ programming techniques building upon prerequisite courses
+* Understand the principles of digital logic design
+* Acquire knowledge of embedded system design
+* Get exposed to wireless networking and robotic control
+* Develop an appreciation for the software/hardware interface
