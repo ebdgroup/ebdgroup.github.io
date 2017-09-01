@@ -1,3 +1,5 @@
+[syllabus](syllabus)
+
 ## Class Schedule
 
 * Tuesday 9:15 am - 11:30 am @ 009c Hayden Hall
