@@ -1,19 +1,36 @@
 # EECE2160: Embedded Design Enabling Robotic Syllabus (Fall 2017, Section 8)
 
-**Instructor:** Yifan Sun (yifansun@coe.neu.edu)
+## Instructor
 
-**Office:** TBA
+[Yifan Sun](https://syifan.github.io) (yifansun@coe.neu.edu)
 
-**Office Hours** TBA
+### Office
 
-**Online Discussion** TBA
+R306, 140 the Fenway. You can follow the instruction [here](https://syifan.github.io/contact.html) to find my office.
 
-**Teaching Assitant:** TBA
+### Office Hours
+
+* Monday 10 am - 12 am **In Office**
+* Thursday 7 pm - 8 pm **Online**
+
+If you are planning to come to the office hour, please come at the beginning of the time slot, since many students usually have the same question.
+
+## Teaching Assitant
+
+**Nasim Shafiee** shafiee.n@husky.neu.edu - Office Hour: Friday 12 - 2 pm
+
+**Luxi Zeng** zeng.l@husky.neu.edu - Office Hour: Tuesday 4 - 6 pm
+
+TA office hours will be held in 009c Hayden Hall.
+
+## Online Discussion
+
+Slack is used for online discussion. Students are encouraged to help eath other on Slack. Instructor and TAs will try their best to answer students questions.
 
 ## Class Schedule
 
-* Tuesday 9:15 am - 11:30 am @ 009 Hayden Hall
-* Friday  9:15 am - 11:30 am @ 009 Hayden Hall
+* Tuesday 9:15 am - 11:30 am @ 009c Hayden Hall
+* Friday  9:15 am - 11:30 am @ 009c Hayden Hall
 
 ## Overview
 
@@ -42,7 +59,21 @@ The material presented in this course is a compilation of topics extracted from 
 
 ## Grading
 
-TBA
+| Item          | Scheme 1 | Scheme 2 |
+|:-------------:|---------:|---------:|
+| Lab           | 30%      | 30%      |
+| Quiz          | 20%      | 0%       |
+| Final Project | 10%      | 10%      |
+| Midterm Exam  | 20%      | 30%      |
+| Final Exam    | 20%      | 30%      |
+
+Two grading schemes are provided for students. The final grade of each student will be taken from the higher value.
+
+Quizzes are given at the beginning of the classes. There are no make-up quizzes. Please inform your instructor before the class if you cannot come in for really important reasons.
+
+I will geneally use the Friday class as lab sessions and use the Tuesday class as lection sessions. Each lab will require you to write some code or write a report. The due time of each lab is 23:59 of the next Thursday, unless otherwise noticed. The deadlines are stict. So please do not submit your homework at the last minutes. Since the Labs will be completed in groups(no more than 2 students per group, the group formation cannot change during the semester), group members will receive the same score on the Labs.
+
+Each team (no more than 2 students, can be different from the homework group) will be required to work on a final project at the end of the semester. The topics will be anounced later. Students are encouraged to come up with their own creative ideas.
 
 ## Lab Assignment
 
@@ -191,3 +222,12 @@ If you come to office hours, please show up at the beginning of the correspondin
 | Friday 11/24  | **Lab 10** Controlling Servos by Hardware                          |
 | Tuesday 11/28 | Backup Lecture                                                     |
 | Friday 12/1   | **Lab 11**                                                         |
+
+## Accommodations for Disabilities
+
+Northeastern University and the Disability Resource Center (DRC) are committed to providing
+disability services that enable students who qualify to participate fully in the activities of the university. Students with documented disabilities who may need accommodations, or any student considering obtaining documentation should visit the [DRC website](www.northeastern.edu/drc) or contact their staff at 617.373.2675.
+
+## Statement on Academic Integrity
+
+A commitment to the principles of academic integrity is essential to the mission of Northeastern University. The Academic Integrity Policy can be found in the undergraduate student handbook (pages 38-41), or from the [Office of Student Conduct & Conflict Resolution (OSCCR)](http://www.northeastern.edu/osccr/academic-integrity-policy/). I encourage you to familiarize yourself with it. If a student violates this policy in any way, I reserve the right to impose a sanction of failure on the assignment/assessment or failure in the course. If you have questions about appropriate citations, please ask.”
