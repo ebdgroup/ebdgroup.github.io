@@ -62,10 +62,10 @@ The material presented in this course is a compilation of topics extracted from 
 | Item          | Scheme 1 | Scheme 2 |
 |:-------------:|---------:|---------:|
 | Lab           | 30%      | 30%      |
-| Quiz          | 20%      | 0%       |
+| Quiz          | 30%      | 0%       |
 | Final Project | 10%      | 10%      |
-| Midterm Exam  | 20%      | 30%      |
-| Final Exam    | 20%      | 30%      |
+| Midterm Exam  | 15%      | 30%      |
+| Final Exam    | 15%      | 30%      |
 
 Two grading schemes are provided for students. The final grade of each student will be taken from the higher value.
 
