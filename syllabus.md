@@ -69,6 +69,24 @@ The material presented in this course is a compilation of topics extracted from 
 
 Two grading schemes are provided for students. The final grade of each student will be taken from the higher value.
 
+Your final grade is calculated as a numeric grade between 0 and 100 based on the percentages shown
+above, and then converted into a letter grade using the following scale:
+
+| High   | Low    | Grade |
+|:------:|:------:|:-----:|
+| 100.00 | 95.00  | A     |
+| 94.99  | 90.00  | A-    |
+| 89.99  | 86.66  | B+    |
+| 86.65  | 83.33  | B     |
+| 83.32  | 80.00  | B-    |
+| 79.99  | 76.66  | C+    |
+| 76.65  | 73.33  | C     |
+| 73.32  | 70.00  | C-    |
+| 69.99  | 66.66  | D+    |
+| 66.65  | 63.33  | D     |
+| 63.32  | 60.00  | D-    |
+| 59.99  | 0.00   | F     |
+
 Quizzes are given at the beginning of the classes. There are no make-up quizzes. Please inform your instructor before the class if you cannot come in for really important reasons.
 
 I will geneally use the Friday class as lab sessions and use the Tuesday class as lection sessions. Each lab will require you to write some code or write a report. The due time of each lab is 23:59 of the next Thursday, unless otherwise noticed. The deadlines are stict. So please do not submit your homework at the last minutes. Since the Labs will be completed in groups, group members will receive the same score on the Labs.
