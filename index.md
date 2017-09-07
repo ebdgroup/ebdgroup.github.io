@@ -15,7 +15,8 @@ This course presents fundamental concepts of Computer Engineering from a compreh
 
 ## Office Hours
 
-TBA
+* Monday 12 pm - 2 pm **In Office**
+* Thursday 7 pm - 9 pm **Online**
 
 ## Communication
 

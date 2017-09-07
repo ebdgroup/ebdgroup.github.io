@@ -10,18 +10,28 @@ R306, 140 the Fenway. You can follow the instruction [here](https://syifan.githu
 
 ### Office Hours
 
-* Monday 10 am - 12 am **In Office**
-* Thursday 7 pm - 8 pm **Online**
+* Monday 12 pm - 2 pm **In Office**
+* Thursday 7 pm - 9 pm **Online**
 
 If you are planning to come to the office hour, please come at the beginning of the time slot, since many students usually have the same question.
 
 ## Teaching Assitant
 
 **Nasim Shafiee** shafiee.n@husky.neu.edu - Office Hour: Friday 12 - 2 pm
-
 **Luxi Zeng** zeng.l@husky.neu.edu - Office Hour: Tuesday 4 - 6 pm
 
-TA office hours will be held in 009c Hayden Hall.
+You can also attend the office hours of TAs from other sections. All TA office hours will be held in 009 Hayden Hall. Here is a full list of TA office hours.
+
+| TA                  | Email                   | Time            |
+|:-------------------:|:-----------------------:|:---------------:|
+| Zachary Wajda       | wajda.z@husky.neu.edu   | Monday 6-8pm    |
+| Luxi Zeng           | zeng.l@husky.neu.edu    | Tuesday 4-6pm   |
+| Christopher Conard  | conard.c@husky.neu.edu  | Tuesday 6-8pm   |
+| Bin Sun             | sun.bi@husky.neu.edu    | Wednesday 6-8pm |
+| Peng Chang          | chang.pe@husky.neu.edu  | Thursday 6-8pm  |
+| Jayesh Dilip Sarode | sarode.j@husky.neu.edu  | Thursday 7-9pm  |
+| Nasim Shafiee       | shafiee.n@husky.neu.edu | Friday 12-2pm   |
+
 
 ## Online Discussion
 
