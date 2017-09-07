@@ -1,8 +1,11 @@
-# Welcome
-
 ## Overview
 
-This course presents fundamental concepts of Computer Engineering from a comprehensive, full-stack, software-hardware design perspective. The course explores scripting languages, high-level programming, Unix/Linux operating systems, device drivers, software-hardware interfaces, hardware controllers, and digital circuit design. The course is accompanied by a hands-on lab where students apply theoretical concepts on a full-system ZedBoard platform, featuring a programmable logic module, an ARM processor, and an Ubuntu distribution of the Linux operating system. Students will design custom creative software-hybrid designs interacting with a variety of hardware devices connected to the ZedBoard, including LEDs, push buttons, switches, OLED screens, a Wiimote, and a remote-controlled robotic arm.
+This course presents fundamental concepts of Computer Engineering from a comprehensive, full-stack, software-hardware design perspective. The course explores scripting languages, high-level programming, Unix/Linux operating systems, device drivers, software-hardware interfaces, hardware controllers, and digital circuit design. The course is accompanied by a hands-on lab where students apply theoretical concepts on a full-system ZedBoard platform, featuring a programmable logic module, an ARM processor, and an Ubuntu distribution of the Linux operating system. Students will design custom creative software-hybrid designs interacting with a variety of hardware devices connected to the ZedBoard, including LEDs, push buttons, switches, OLED screens, a Wiimote, and a remote-controlled 
+robotic arm.
+
+## Instructor
+
+[Yifan Sun](https://syifan.github.io) (yifansun@coe.neu.edu)
 
 ## Syllabus
 
