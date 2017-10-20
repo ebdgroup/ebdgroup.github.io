@@ -231,19 +231,17 @@ A midterm exam will cover the first part of the course material. A comprehensive
 | Tuesday 10/3  | **Unit 3** Object-Oriented Programming                             |
 | Friday 10/6   | **Lab 4** Memory-Mapped I/O and Object-Oriented Programming        |
 | Tuesday 10/10 | **Unit 4** Information Representation                              |
-| Friday 10/13  | **Lab 5** Controlling the Wiimote with Object-Oriented Programming |
-| Tuesday 10/17 | **Midterm Exam**                                                   |
-| Friday 10/20  | **Lab 6** Controlling the Robotic Arm by Software                  |
-| Tuesday 10/24 | **Unit 5** Boolean Algebra and Logic Gates                         |
-| Friday 10/27  | **Lab 7** Introduction to Simulink                                 |
-| Tuesday 10/31 | **Unit 6** Combinational Logic                                     |
-| Friday 11/10  | **Lab 8** Programming the FPGA Using Simulink                      |
-| Tuesday 11/14 | **Unit 7** Sequential Logic                                        |
-| Friday 11/17  | **Lab 9** Controlling Push Buttons by Hardware                     |
+| Friday 10/20  | **Lab 5** Controlling the Wiimote with Object-Oriented Programming |
+| Tuesday 10/24 | **Midterm Exam**                                                   |
+| Friday 10/27  | **Lab 6** Controlling the Robotic Arm by Software                  |
+| Tuesday 10/31 | **Unit 5** Boolean Algebra and Logic Gates                         |
+| Friday 11/10  | **Lab 7** Introduction to Simulink                                 |
+| Tuesday 11/14 | **Unit 6** Combinational Logic                                     |
+| Friday 11/17  | **Lab 8** Programming the FPGA Using Simulink                      |
 | Tuesday 11/21 | **Unit 7** Sequential Logic                                        |
-| Friday 11/24  | **Lab 10** Controlling Servos by Hardware                          |
-| Tuesday 11/28 | Backup Lecture                                                     |
-| Friday 12/1   | **Lab 11**                                                         |
+| Friday 11/24  | **Lab 9** Controlling Push Buttons by Hardware                     |
+| Tuesday 11/28 | **Unit 7** Sequential Logic                                        |
+| Friday 12/1   | **Lab 10** Controlling Servos by Hardware                          |
 
 ## Accommodations for Disabilities
 
